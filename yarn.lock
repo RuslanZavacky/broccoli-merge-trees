@@ -1200,7 +1200,7 @@ fs-updater@RuslanZavacky/node-fs-updater#optimizations:
     clean-up-path "^1.0.0"
     heimdalljs "^0.2.5"
     heimdalljs-logger "^0.1.9"
-    rimraf "^3.0.2"
+    rimraf "^2.6.2"
 
 fs.realpath@^1.0.0:
   version "1.0.0"
@@ -1846,7 +1846,7 @@ math-random@^1.0.1:
 
 merge-trees@RuslanZavacky/node-merge-trees#optimizations:
   version "2.0.0"
-  resolved "https://codeload.github.com/RuslanZavacky/node-merge-trees/tar.gz/d80ea0867d784f408aba5fe1e216b307f9f6bc83"
+  resolved "https://codeload.github.com/RuslanZavacky/node-merge-trees/tar.gz/c77e89646038d286ad40e1fb28b6a17707bea4dc"
   dependencies:
     fs-updater RuslanZavacky/node-fs-updater#optimizations
     heimdalljs "^0.2.5"
