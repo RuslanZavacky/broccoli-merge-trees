@@ -18,11 +18,11 @@
     "index.js"
   ],
   "engines": {
-    "node": "10.* || >= 12.*"
+    "node": ">= 14.*"
   },
   "dependencies": {
     "broccoli-plugin": "^4.0.2",
-    "merge-trees": "^2.0.0"
+    "merge-trees": "RuslanZavacky/node-merge-trees#optimizations"
   },
   "devDependencies": {
     "broccoli-fixture": "^1.0.0",
@@ -36,7 +36,7 @@
     "test:debug": "mocha debug"
   },
   "volta": {
-    "node": "12.16.1",
-    "yarn": "1.22.4"
+    "node": "16.13.1",
+    "yarn": "1.22.17"
   }
 }
